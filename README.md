@@ -137,4 +137,4 @@ MIT License - see [LICENSE.md](LICENSE.md) for details.
 
 ## Contributing
 
-This project was created to enable remote development workflows with Claude Code. Contributions and improvements are welcome!
+This project was created to enable remote development workflows with Claude Code and as part of my experimentation with using Claude Code, so I won't be accepting contributions.
